@@ -17,9 +17,12 @@ Bu uygulama, Base64 kodlarını görsele dönüştürmenizi ve görselleri Base6
 3. "Dönüştür (Önizle)" ile önizleme yapabilir, "İndir" ile görseli kaydedebilirsiniz.
 4. "Fotoğrafı Base64'e Dönüştür" ile bir görseli seçip Base64 kodunu alabilirsiniz.
 
-##2. Yol
+## 2. Yol
 1. requirements.bat dosyasını çalıştırın. Bu adım uygulama için gerekli olan kütüphaneleri indirir ve kurar.
-
+   ```
+   python base64topng.py
+   ```
+   
 2. Uygulamayı başlatın:
    ```
    python base64topng.py
